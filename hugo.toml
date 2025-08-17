@@ -1,0 +1,8 @@
+baseURL = 'https://jakeconnor.com/'
+languageCode = 'en-us'
+title = 'Jake Connor'
+theme = 'nostyleplease'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
